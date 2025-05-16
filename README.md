@@ -42,18 +42,16 @@
 
 ### 📫 Vamos conversar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuelbezerradev/)  
-- 📧 Email: **emmanuelbdev@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuelbezerradev/)
+- 📧 Email: **emmanuelbdev@gmail.com**
 - 🌐 Portfólio (em breve)
 
 ---
 
 ### 🎮 Snake Game (jogo da cobrinha)
 
-> **Use o mouse para movimentar e se divertir com a cobrinha do GitHub!**
-
 <p align="center">
-  <img src="https://github.com/emmanuelbezerradev/emmanuelbezerradev/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/emmanuelbezerradev/emmanuelbezerradev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -74,8 +72,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emmanuelbezerradev&style=for-the-badge&color=red" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/emmanuelbezerradev/emmanuelbezerradev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
