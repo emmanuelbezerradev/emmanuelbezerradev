@@ -75,3 +75,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emmanuelbezerradev&style=for-the-badge&color=red" alt="profile views" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emmanuelbezerradev/emmanuelbezerradev/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
