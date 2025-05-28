@@ -44,7 +44,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuelbezerradev/)
 - 📧 Email: **emmanuelbdev@gmail.com**
-- 🌐 Portfólio (em breve)
+- 🌐 Portfólio: **http://127.0.0.1:5500/portifolio/index.html**
 
 ---
 
