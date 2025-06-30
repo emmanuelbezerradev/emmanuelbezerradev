@@ -58,9 +58,9 @@
 
 ### ❤️ Repositórios em destaque
 
-- 🔥 [Calculadora React](https://github.com/emmanuelbezerradev/calculadora-react)
-- 📝 [Projeto Blog com Node.js](https://github.com/emmanuelbezerradev/blog-nodejs)
-- 🎮 [Mini Jogo JavaScript](https://github.com/emmanuelbezerradev/mini-jogo-js)
+- 🔥 [Aluga Web React](https://github.com/emmanuelbezerradev/aluga-web-frontend)
+- 📝 [Aluga Web Backend com Node.js](https://github.com/emmanuelbezerradev/aluga-web-backend)
+- 🎮 [Digital Store E-Commerce React](https://github.com/emmanuelbezerradev/digital-store-back)
 
 ---
 
